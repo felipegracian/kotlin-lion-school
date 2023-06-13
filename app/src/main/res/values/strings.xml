@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lion School New</string>
+    <string name="title_activity_courses">CoursesActivity</string>
+    <string name="title_activity_students">StudentsActivity</string>
+    <string name="title_activity_my_student">MyStudentActivity</string>
+</resources>
